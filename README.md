@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshyansh24/Akshyansh24/blob/main/banner-1.png)
+![logo](https://drive.google.com/file/d/1VNXO77J-gQN_H510Pm4WRMWNugKf53WQ/view?usp=drive_link)
 
 <h1 align="center">Hi 👋, I'm Akshyansh Sharma</h1>
 <h3 align="center">A Passionate Frontend developer 👨‍💻</h3>
