@@ -1,7 +1,7 @@
 ![logo](https://github.com/Akshyansh24/Akshyansh24/blob/main/banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Akshyansh Sharma</h1>
-<h3 align="center">A Passionate Froentend developer 👨‍💻</h3>
+<h3 align="center">A Passionate Frontend developer 👨‍💻</h3>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
