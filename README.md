@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/Ny9sQ4m)]
+[![MasterHead](https://i.ibb.co/VqgtrKQ/banner-1.png)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Akshyansh Sharma</h1>
 <h3 align="center">A Passionate Frontend developer 👨‍💻</h3>
 
