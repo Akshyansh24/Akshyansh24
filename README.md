@@ -1,5 +1,4 @@
-![logo](https://github.com/Akshyansh24/Akshyansh24/blob/main/banner-1.png)
-
+[![MasterHead](https://github.com/Akshyansh24/Akshyansh24/blob/main/banner-1.png)](https://github.com/Akshyansh24)
 <h1 align="center">Hi 👋, I'm Akshyansh Sharma</h1>
 <h3 align="center">A Passionate Frontend developer 👨‍💻</h3>
 
